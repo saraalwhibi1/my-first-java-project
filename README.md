@@ -25,3 +25,5 @@ Displays a summarized report of the HRS system, that includes:
 • The current number of hired employees, and the number of available employees.
 • The id of the employee with the highest hiring frequency in the system.
 • A listing of all the employees in a table with a proper header.
+
+
